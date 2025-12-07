@@ -11,7 +11,8 @@
       "Bash(timeout 30 tail:*)",
       "Bash(if exist clustering_analysis_test.ipynb del clustering_analysis_test.ipynb)",
       "Bash(where:*)",
-      "Bash(C:UsersSilverAppDataLocalProgramsPythonPython312python.exe -m pip install --quiet umap-learn shap)"
+      "Bash(C:UsersSilverAppDataLocalProgramsPythonPython312python.exe -m pip install --quiet umap-learn shap)",
+      "Bash(dir:*)"
     ],
     "deny": [],
     "ask": []
