@@ -5,7 +5,13 @@
       "mcp__jupyter__notebook_create",
       "mcp__jupyter__notebook_add_cell",
       "Bash(jupyter nbconvert:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)",
+      "Bash(timeout 30 tail:*)",
+      "Bash(if exist clustering_analysis_test.ipynb del clustering_analysis_test.ipynb)",
+      "Bash(where:*)",
+      "Bash(C:UsersSilverAppDataLocalProgramsPythonPython312python.exe -m pip install --quiet umap-learn shap)"
     ],
     "deny": [],
     "ask": []
