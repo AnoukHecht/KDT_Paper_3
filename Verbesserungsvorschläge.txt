@@ -162,9 +162,6 @@
 
   WICHTIG:
 
-  5. Entferne Duplikate:
-    - Behalte eine beste Silhouette-Visualisierung
-    - Merge Cluster Profiling in einen Abschnitt
   6. SHAP vorsichtiger formulieren:
     - Keine kausalen Aussagen
     - Betone Korrelation vs. Kausalität

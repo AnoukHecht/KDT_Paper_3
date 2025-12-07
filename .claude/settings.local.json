@@ -19,7 +19,8 @@
       "Bash(npx:*)",
       "mcp__jupyter__notebook_get_outline",
       "mcp__jupyter__notebook_read_cell",
-      "mcp__jupyter__notebook_search"
+      "mcp__jupyter__notebook_search",
+      "mcp__jupyter__notebook_edit_cell"
     ],
     "deny": [],
     "ask": []
