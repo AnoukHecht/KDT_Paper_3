@@ -12,7 +12,14 @@
       "Bash(if exist clustering_analysis_test.ipynb del clustering_analysis_test.ipynb)",
       "Bash(where:*)",
       "Bash(C:UsersSilverAppDataLocalProgramsPythonPython312python.exe -m pip install --quiet umap-learn shap)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(timeout:*)",
+      "Bash(npx -y @jupyter-js/mcp-server)",
+      "WebSearch",
+      "Bash(npx:*)",
+      "mcp__jupyter__notebook_get_outline",
+      "mcp__jupyter__notebook_read_cell",
+      "mcp__jupyter__notebook_search"
     ],
     "deny": [],
     "ask": []
