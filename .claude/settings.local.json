@@ -4,7 +4,8 @@
       "Bash(claude mcp:*)",
       "mcp__jupyter__notebook_create",
       "mcp__jupyter__notebook_add_cell",
-      "Bash(jupyter nbconvert:*)"
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
